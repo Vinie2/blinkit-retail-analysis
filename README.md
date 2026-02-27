@@ -23,3 +23,11 @@ This project analyzes retail grocery sales data to identify top-performing produ
 ## 🔹 Files Included
 - Excel Dashboard Screenshot
 - Tableau Dashboard Screenshot
+
+- ## Excel Dashboard Preview
+
+![Blinkit Excel Dashboard](https://github.com/Vinie2/blinkit-retail-analysis/blob/977be578df8e4eee9b91bc960ee75cde73e3c2be/Screenshot%20Blinkit%20Excel.png?raw=true)
+
+## Tableau Dashboard Preview
+
+![Blinkit Tableau Dashboard](https://github.com/Vinie2/blinkit-retail-analysis/blob/977be578df8e4eee9b91bc960ee75cde73e3c2be/Screenshot%20Tableau.png?raw=true)
